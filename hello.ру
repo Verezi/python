@@ -3,6 +3,9 @@ print("i_tupica")
 print(2 + 2)
 input("Enter your name:")
 print("Hi","name","!")
+x = 5
+print (x)
+
 
 
 
